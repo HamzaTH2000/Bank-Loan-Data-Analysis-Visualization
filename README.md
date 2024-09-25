@@ -80,13 +80,19 @@ ________________________________________________
 
 - **36-month terms** (28.2K applications) are preferred over **60-month terms** (10.3K), likely due to **lower interest costs** associated with **shorter terms**.
 
-### **7. Home Ownership** 🏡
+### **7. Monthly Trend:** 
+
+**December** shows the highest number of applications at **4.3K**, up from **2.3K** in January. This consistent upward trend throughout the year signifies stable or improving market conditions.
+
+<img width="264" alt="total loan by month" src="https://github.com/user-attachments/assets/89913e88-b9f2-4e15-9162-c95a240055f1">
+
+### **8. Home Ownership** 🏡
 
 - **Renters** account for the highest number of loan applications (18.4K), Renters represent the largest group of loan applicants, indicating that individuals without property ownership are actively seeking loans.
 - Those with existing **mortgages** are the second-largest group of loan applicants.
 - **Homeowners** who own their homes  make up small group (2.8 loan applicants).
 
-### **8. Geographic Insights** 🌍
+### **9. Geographic Insights** 🌍
 
 - **California** leads with 6.9K applications, followed by **New York** (3.7K), **Florida** (2.8K), and **Texas** (2.7K) as making up TOP 4 states. 
 
@@ -94,14 +100,14 @@ ________________________________________________
 
 ## **Recommendations** ✅
 
- -  Continuously monitor and adjust loan grades to reflect current economic conditions and borrower behaviors.
- -  Pay close attention to **Grade  E, F, and G** borrowers, as they represent **higher risk**. Consider tightening lending criteria or implementing **proactive monitoring** to mitigate defaults.
- -  Focus on **Grade A and B** borrowers, who exhibit strong **repayment performance** with **low default risk**. Expand offerings to these segments to enhance **portfolio stability**.
- -  Focus marketing efforts on borrowers with stable employment histories (**over 10 years**) as they show higher loan demand and repayment reliability.
- -  Target marketing efforts in **California**, **New York**, **Florida**, and **Texas** to capture larger market share where **loan applications** are highest.
- -  Investigate the reasons behind low application rates in states like **Maine** and **Vermont** and develop strategies to increase loan uptake in these areas.
- -  Design loan products that cater to **renters** and **Mortgage takers** as these groups show strong **loan demand**.
- -  Promote loan products specifically designed for **debt consolidation**, and **credit cards** given the high demand in these categories.
+1. **Focus on High-Quality Loan Grades:** Increase marketing and outreach for **Grade A** and **Grade B** loans, as they represent a large portion of applications and have lower interest rates. This can help manage risk and optimize returns.
+
+2. **Address Debt Consolidation and credit cards Needs:** Given the high volume of applications for debt consolidation as well as credit cards, consider offering tailored products or services that address this need more effectively.
+
+3. **Target Key Employment Groups:** Develop targeted financial products or services for both **long-tenured employees** (10+ years) and those with **less than 1 year of experience** as they make up a large share of total borrowers, to cater to their specific financial needs .
+
+4. **Leverage Monthly Trends:** Utilize insights from the monthly trend data to plan marketing and operational strategies, particularly focusing on peak application periods like December.
+
 ________________________________________
 
 NAME : Hamza Thamlaoui
